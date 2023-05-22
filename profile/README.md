@@ -1,4 +1,4 @@
-# Quantified student
+# Quantified Student
 The Quantified Student (QS for short) project focuses on helping students with their development and optimizing their performance with the help of collected data. The collected data will be shown in a dashboard where the student can see it. After which, the student can conclude where and how to improve their workflow. For example, the system can show when it is the best time to work for the student.
 
 ## Setup local dev env
